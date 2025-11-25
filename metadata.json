@@ -1,0 +1,5 @@
+{
+  "name": "TVRI EMS (Executive Management System)",
+  "description": "Sistem manajemen eksekutif TVRI berbasis web untuk pengelolaan kasus, tugas divisi, dan dashboard eksekutif dengan tema TVRI.",
+  "requestFramePermissions": []
+}
